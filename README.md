@@ -1,207 +1,208 @@
+
+<div align="center">
+
 # 👨‍💻 Aryan Saeed
 
-## Full Stack Developer | Web Developer | AutoCAD & MS Office
+### Full Stack Developer • Web Developer • AutoCAD • MS Office
 
-Hi, I'm **Aryan Saeed**, a passionate Full Stack Developer from Pakistan.  
-I build modern, responsive and professional websites and web applications.
+<p>
+  <a href="https://aryansaeed.com">
+    <img src="https://img.shields.io/badge/🌐%20Website-aryansaeed.com-0ea5e9?style=for-the-badge" alt="Website">
+  </a>
+  <a href="mailto:info@aryansaeed.com">
+    <img src="https://img.shields.io/badge/📧%20Email-info%40aryansaeed.com-2563eb?style=for-the-badge" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-aryan-saeed-a32388427">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-I work with both frontend and backend technologies and continuously improve my skills by learning and working on real-world projects.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Aryansaeed099&style=flat-square&color=0ea5e9" alt="Profile Views">
+</p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Full Stack Developer
-- 🌐 Web Development
-- 🎨 AutoCAD Designer
-- 📊 MS Office Professional
-- 💻 PHP & Laravel Developer
-- 🗄️ MySQL Database Developer
-- 📱 Responsive Web Design
-- 🇵🇰 Based in Pakistan
+> **I build modern, responsive and professional digital experiences.**
+
+I'm **Aryan Saeed**, a passionate **Full Stack Developer** from Pakistan. I work across frontend and backend development and also have practical skills in **AutoCAD** and **Microsoft Office**.
+
+I enjoy transforming ideas into clean, responsive and functional websites while continuously learning modern technologies.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧩 Core Skills
 
-### 💻 Web Development
+| 💻 Web Development | 🎨 Design | 📊 Office |
+|---|---|---|
+| HTML5 | AutoCAD | Microsoft Word |
+| CSS3 | Technical Drawing | Microsoft Excel |
+| JavaScript | Layout Design | Microsoft PowerPoint |
+| Bootstrap 5 | UI Design | MS Office |
+| PHP | | |
+| Laravel | | |
+| MySQL | | |
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 5
-- PHP
-- Laravel
-- MySQL
+### ⚡ Technology Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+</p>
+
+---
+
+## 💼 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+- Business Websites
+- E-Commerce Websites
+- Full Stack Development
+- PHP & Laravel Development
+- MySQL Database Development
 - Responsive Web Design
-- AOS Animation
-- Remix Icon
 
-### 🎨 Design
+</td>
+<td width="50%">
 
-- AutoCAD
-- Technical Drawing
-- Professional Layout Design
+### 🛠️ Other Services
+- AutoCAD Design
+- Technical Drawings
+- MS Office Work
+- Website Maintenance
+- UI / Layout Design
+- Website Improvements
 
-### 📊 MS Office
-
-- Microsoft Word
-- Microsoft Excel
-- Microsoft PowerPoint
-- MS Office
-
-### 🔧 Tools
-
-- Git
-- GitHub
-- Visual Studio Code
-
----
-
-## 💼 Professional Services
-
-- 🌐 Business Website Development
-- 🛒 E-Commerce Website Development
-- 💻 Full Stack Web Development
-- ⚙️ PHP & Laravel Development
-- 🗄️ MySQL Database Development
-- 📱 Responsive Website Design
-- 🎨 AutoCAD Design
-- 📊 MS Office Work
-- 🔧 Website Maintenance
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🛒 Arynex Store
-
 **Electric & Home Gadgets E-Commerce Store**
 
-🌐 https://Arynexstore.com
-
----
+🌐 **https://Arynexstore.com**
 
 ### ♻️ Take My Junk UAE
-
 **Professional Junk Removal Service Website**
 
-🌐 https://takemyjunkuae-free.com/
-
----
+🌐 **https://takemyjunkuae-free.com/**
 
 ### 💻 Xclosy
-
 **Business Website**
 
-🌐 https://xclosy.com/index.php
-
----
+🌐 **https://xclosy.com/index.php**
 
 ### 🌐 Apex Choice
-
 **Business & Service Website**
 
-🌐 https://apex-choice.com/
+🌐 **https://apex-choice.com/**
 
 ---
 
 ## 🎓 Education
 
-### BS Computer Science
-**Virtual University of Pakistan**  
-2026 – Present
+**BS Computer Science**  
+Virtual University of Pakistan • **2026 – Present**
 
-### Intermediate
-**AIMS School and College, Lodhran**  
-2022 – 2024
+**Intermediate**  
+AIMS School and College, Lodhran • **2022 – 2024**
 
-### Matric
-**Government High School, Lodhran**  
-2020 – 2022
+**Matric**  
+Government High School, Lodhran • **2020 – 2022**
 
 ---
 
 ## 📚 Courses & Training
 
-- Full Stack Developer Course — 2024
-- MS Office Course — 2023
+- 🎓 Full Stack Developer Course — 2024
+- 🖥️ MS Office Course — 2023
 
 ---
 
 ## 💼 Experience
 
-### Web Development
-
-- Developing professional and responsive websites
-- Building business and e-commerce websites
-- PHP, Laravel and MySQL development
-- Frontend development using HTML, CSS, JavaScript and Bootstrap
-
 ### DeveloperHub Corporation
-
 **Web Development Intern — Remote**
 
 - Worked on practical web development projects
 - Improved frontend and backend development skills
 - Gained experience with real-world development workflows
 
----
+### Full Stack Web Development
 
-## 🎯 Currently Learning
-
-- Advanced Laravel
-- Modern JavaScript
-- Backend Development
-- Database Optimization
-- New Web Technologies
+- Building responsive and professional websites
+- Developing business and e-commerce solutions
+- Working with PHP, Laravel and MySQL
+- Creating modern interfaces with HTML, CSS, JavaScript and Bootstrap
 
 ---
 
-## 📞 Contact Me
+## 📈 Currently Learning
 
-### Aryan Saeed
-**Full Stack Developer | Web Developer**
-
-🌐 **Website:** https://aryansaeed.com
-
-📧 **Email:** info@aryansaeed.com
-
-📱 **Phone / WhatsApp:** 03136227548
-
-📍 **Pakistan**
+`Advanced Laravel` • `Modern JavaScript` • `Backend Development` • `Database Optimization` • `Modern Web Technologies`
 
 ---
 
-## 🔗 Connect With Me
+## 📞 Contact
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/muhammad-aryan-saeed-a32388427
+<div align="center">
 
-📘 **Facebook:**  
-https://www.facebook.com/share/1CBuQz95vp/
+| Contact | Details |
+|---|---|
+| 🌐 Website | **https://aryansaeed.com** |
+| 📧 Email | **info@aryansaeed.com** |
+| 📱 Phone / WhatsApp | **03136227548** |
+| 📍 Location | **Pakistan** |
 
-🌐 **Portfolio:**  
-https://aryansaeed.com
+<br>
+
+<a href="https://aryansaeed.com">
+<img src="https://img.shields.io/badge/Visit%20My%20Website-aryansaeed.com-0ea5e9?style=for-the-badge" alt="Website">
+</a>
+<a href="mailto:info@aryansaeed.com">
+<img src="https://img.shields.io/badge/Contact%20Me-Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
 
 ---
 
 ## 🤝 Let's Work Together
 
-Have a **website project, e-commerce project, AutoCAD work or MS Office task?**
+**Have a website project, e-commerce idea, AutoCAD task or MS Office requirement?**
 
-Feel free to contact me for professional projects and collaborations.
+I'm open to **professional projects, collaborations and development opportunities.**
 
 📧 **info@aryansaeed.com**  
 📱 **03136227548**
 
 ---
 
-<p align="center">
+<div align="center">
 
-### ⭐ Thanks for visiting my GitHub Profile!
+### ⭐ Thanks for visiting my GitHub profile!
 
 **Aryan Saeed**  
-*Full Stack Developer | Web Developer | AutoCAD | MS Office*
+*Full Stack Developer • Web Developer • AutoCAD • MS Office*
 
-</p>
+</div>
